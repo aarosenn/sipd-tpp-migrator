@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Data Excel & Sensitif (NIP, Nama, Gaji, TPP)
+# Menghindari data riil ter-commit ke repositori
+*.xlsx
+*.xls
+*.csv
